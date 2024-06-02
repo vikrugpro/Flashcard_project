@@ -21,3 +21,12 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+App.css.map
+Button.css.map
+Footer.css.map
+Header.css.map
+List.css.map
+Table.css.map
+Topic.css.map
+Wordcard.css.map
